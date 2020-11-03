@@ -23,7 +23,7 @@ after_success:
   - docker push anewton81/multi-server
   - docker push anewton81/multi-worker
 
-# Try again!
+# Try again! One more time, no TFA!
 #deploy:
 #  provider: elasticbeanstalk
 #  region: "us-west-1"
